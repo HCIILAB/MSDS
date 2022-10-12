@@ -2,7 +2,7 @@
 
 This is the released version of the MSDS dataset. The dataset can be downloaded in the following ways:
 
-- [Baidu Cloud](链接：https://pan.baidu.com/s/1k6vZ4tVnvL3JyY4I16CRjQ?pwd=062e)
+- [Baidu Cloud](https://pan.baidu.com/s/1k6vZ4tVnvL3JyY4I16CRjQ?pwd=062e)
 - [Google Drive](https://drive.google.com/file/d/1FZNbFC_K4Co8t9nR8J3o_dNx1QiI2Utg/view?usp=sharing)
 
 ## Usage
