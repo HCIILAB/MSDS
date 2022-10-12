@@ -142,8 +142,8 @@ The dataset is organized in the following directory format:
 
 ## ToDo
 
-# Copyright
+## Copyright
 
-For commercial purpose usage, please contact Dr. Lianwen Jin: eelwjin@scut.edu.cn
+For commercial purpose usage, please contact Prof. Lianwen Jin: eelwjin@scut.edu.cn.
 
-Copyright 2019, Deep Learning and Vision Computing Lab, South China China University of Technology. http://www.dlvc-lab.net
+Copyright 2022, Deep Learning and Vision Computing Lab, South China China University of Technology. http://www.dlvc-lab.net.
