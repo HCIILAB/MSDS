@@ -141,9 +141,3 @@ The dataset is organized in the following directory format:
 - - For example, `f_0_0.txt` represents the first file (time series) of all skilled forgeries of the user `0`. `g_5_6.png` represents the seventh file (image) of all genuine samples of the user `5`.
 
 ## ToDo
-
-## Copyright
-
-For commercial purpose usage, please contact Prof. Lianwen Jin: eelwjin@scut.edu.cn.
-
-Copyright 2022, Deep Learning and Vision Computing Lab, South China China University of Technology. http://www.dlvc-lab.net.
