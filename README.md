@@ -2,8 +2,8 @@
 
 This is the released version of the MSDS dataset. The dataset can be downloaded in the following ways:
 
-- [Baidu Cloud](https://pan.baidu.com/s/1k6vZ4tVnvL3JyY4I16CRjQ?pwd=062e)
-- [Google Drive](https://drive.google.com/file/d/1FZNbFC_K4Co8t9nR8J3o_dNx1QiI2Utg/view?usp=sharing)
+- [Baidu Cloud](https://pan.baidu.com/s/1orJTpE0ijtU51Izso3UbbA?pwd=kva8)
+- [Google Drive](https://drive.google.com/file/d/19DKIvScvorr5VR6RPeuU49evmt2rBgng/view?usp=sharing)
 
 ## Usage
 
@@ -38,10 +38,6 @@ The data acquisition process is divided into two separate sessions with a time i
 ## Responsible Use
 
 MSDS is collected for handwriting identity verification. Specifically, the MSDS-ChS subset could be exploited in online/offline Chinese signature verification, and the MSDS-TDS subset is intended to be used in online/offline identity verification with Token Digit Strings. In addition, MSDS can be exploited in writer identification.
-
-## Maintenance
-
-Our dataset can be accessed through the aforementioned link. We will occasionally perform maintenance, such as providing data corrections and solving issues raised by developers.
 
 ## License
 
@@ -140,4 +136,34 @@ The dataset is organized in the following directory format:
 - - `index` indicates the number of this file (`.txt` or `.png`) in the current folder.
 - - For example, `f_0_0.txt` represents the first file (time series) of all skilled forgeries of the user `0`. `g_5_6.png` represents the seventh file (image) of all genuine samples of the user `5`.
 
-## ToDo
+## Citation
+
+```
+@misc{zhang2022msds,
+  author = {Zhang, Peirong and Jiang, Jiajia and Liu, Yuliang and Jin, Lianwen},
+  keywords = {Computer Vision and Pattern Recognition (cs.CV), FOS: Computer and information sciences, FOS: Computer and information sciences},
+  title = {{MSDS: A Large-Scale Chinese Signature and Token Digit String Dataset for Handwriting Verification}},
+  publisher = {arXiv},
+  year = {2022},
+  copyright = {Creative Commons Attribution Non Commercial No Derivatives 4.0 International}
+}
+```
+
+or
+
+```
+@inproceedings{zhang2022msds,
+    title={{MSDS: A Large-Scale Chinese Signature and Token Digit String Dataset for Handwriting Verification}},
+    author={Peirong Zhang and Jiajia Jiang and Yuliang Liu and Lianwen Jin},
+    booktitle={Thirty-sixth Conference on Neural Information Processing Systems Datasets and Benchmarks Track},
+    year={2022}
+}
+```
+
+
+
+## Copyright
+
+For commercial purpose usage, please contact Prof. Lianwen Jin: eelwjin@scut.edu.cn.
+
+Copyright 2022, Deep Learning and Vision Computing Lab, South China China University of Technology. http://www.dlvc-lab.net.
