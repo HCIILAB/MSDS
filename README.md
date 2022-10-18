@@ -1,6 +1,6 @@
 # MSDS Dataset Released
 
-This is the released version of the MSDS dataset. The dataset can be downloaded in the following ways:
+This is the released version and official page of the MSDS dataset. The dataset can be downloaded in the following ways:
 
 - [Baidu Cloud](https://pan.baidu.com/s/1orJTpE0ijtU51Izso3UbbA?pwd=kva8)
 - [Google Drive](https://drive.google.com/file/d/19DKIvScvorr5VR6RPeuU49evmt2rBgng/view?usp=sharing)
