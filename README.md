@@ -7,8 +7,8 @@ This is the released version of the MSDS dataset. The dataset can be downloaded 
 
 ## Usage
 
-- The MSDS dataset can only be used for non-commercial research purposes. For scholar or organization who wants to use the MSDS dataset, please first fill in this [Application Form](./application-form/Application-Form-for-Using-MSDS.docx) and email it to us. When submitting the application form to us, please list or attached 1-2 of your publications in the recent 6 years to indicate that you (or your team) do research in the related research fields of handwriting verification, handwriting analysis and recognition, document image processing, and so on. We will give you the decompression password after your letter has been received and approved.
-- All applicants must sign a legal agreement that issued by us and promise to never use the data for any illegal purpose.
+- The MSDS dataset can only be used for non-commercial research purposes. For scholar or organization who wants to use the MSDS dataset, please first fill in this [Application Form](./application-form/Application-Form-for-Using-MSDS.docx) and sign the [Legal Commitment](./application-form/Legal-Commitment.docx) and email them to us. When submitting the application form to us, please list or attached 1-2 of your publications in the recent 6 years to indicate that you (or your team) do research in the related research fields of handwriting verification, handwriting analysis and recognition, document image processing, and so on. We will give you the decompression password after your letter has been received and approved.
+- All users must follow all use conditions; otherwise, the authorization will be revoked.
 
 ## Description
 
@@ -25,11 +25,11 @@ The contributions of MSDS include:
 
 - [X] MSDS-ChS is the largest publicly available Chinese signature dataset for signature for signature verification, at least eight times larger than existing ones.
 - [X] MSDS-TDS is the first dataset that covers Token Digit String, which brings a new and effective biometric for handwriting verification.
-- [x] The experimental results indicates that the Token Digit String is more powerful than Chinese signatures, which is inspiring and promising.
+- [x] The experimental results indicates that the Token Digit String is more powerful than Chinese signature, which is inspiring and promising.
 
 ## Collection
 
-The data of MSDS was acquired with two types of Android tablets. Both of them have specific stylus. We specifically developed an Android app and the user interface is shown below. Users directly performed handwriting on the tablets specific styluses and the produced information was automatically recorded by the app.
+The data of MSDS was acquired with two types of Android tablets. Both of them have specific stylus. We specifically developed an Android app and the user interface is shown below. Users directly performed handwriting on the tablets with specific styluses and the produced information was automatically recorded by the app.
 
 ![gui](./images/gui.png)
 
