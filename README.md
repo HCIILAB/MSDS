@@ -39,15 +39,15 @@ The data acquisition process is divided into two separate sessions with a time i
 
 MSDS is collected for handwriting identity verification. Specifically, the MSDS-ChS subset could be exploited in online/offline Chinese signature verification, and the MSDS-TDS subset is intended to be used in online/offline identity verification with Token Digit Strings. In addition, MSDS can be exploited in writer identification.
 
+## Experimental Result
+
+![chs](./images/chs-tds.png)
+
+Experimental results show all models perform better on MSDS-TDS than MSDS-ChS. This finding is inspiring that the accuracy of TDS verification is higher than that of Chinese signature verification as the two subsets were collected simultaneously. Therefore, Token Digit String could be a more effective biometric trait than Chinese signature for high-accurate online verification.
+
 ## License
 
 MSDS should be used and distributed under [Creative Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) License](https://creativecommons.org/licenses/by-nc-nd/4.0/) for non-commercial research purposes.
-
-## Examples
-
-Some examples of Chinese signatures and Token Digit Strings are shown as follows:![chs](./images/chs_demo.jpg)
-
-![tds](./images/tds_demo.jpg)
 
 ## Directory Format
 
@@ -159,8 +159,6 @@ or
     year={2022}
 }
 ```
-
-
 
 ## Copyright
 
