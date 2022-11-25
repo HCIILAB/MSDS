@@ -10,10 +10,10 @@ This is the released version and official page of the MSDS dataset. The dataset 
 1. [Usage](#Usage)
 2. [Description](#Description)
 3. [Collection](#Collection)
-4. [Responsible Use](#Responsible Use)
-5. [Experimental Result](#Experimental Result)
+4. [Responsible Use](#Responsible_Use)
+5. [Experimental Result](#Experimental_Result)
 6. [License](#License)
-7. [Directory Format](#Directory Format)
+7. [Directory Format](#Directory_Format)
 8. [Copyright](#Copyright)
 
 ## Usage
