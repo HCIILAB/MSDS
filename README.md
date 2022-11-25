@@ -2,8 +2,19 @@
 
 This is the released version and official page of the MSDS dataset. The dataset can be downloaded in the following ways:
 
-- [Baidu Cloud](https://pan.baidu.com/s/1orJTpE0ijtU51Izso3UbbA?pwd=kva8)
-- [Google Drive](https://drive.google.com/file/d/19DKIvScvorr5VR6RPeuU49evmt2rBgng/view?usp=sharing)
+- [Baidu Cloud](https://pan.baidu.com/s/1a1URzGDedL3F-4DTZuf4Aw?pwd=o0bs)
+- [Google Drive](https://drive.google.com/file/d/1e0mGmqNqMyrEXKu7ssFe1LpnRXtpPTlL/view?usp=sharing)
+
+## Directory
+
+1. [Usage](#Usage)
+2. [Description](#Description)
+3. [Collection](#Collection)
+4. [Responsible Use](#Responsible Use)
+5. [Experimental Result](#Experimental Result)
+6. [License](#License)
+7. [Directory Format](#Directory Format)
+8. [Copyright](#Copyright)
 
 ## Usage
 
@@ -16,10 +27,10 @@ MSDS dataset is a handwriting verification benchmark dataset and consists of two
 
 | Subset   | Content            | Online | Offline | User    | Genuine Sample                | Skilled Forgery               | Features                        |
 | -------- | ------------------ | :----: | :-----: | ------- | ----------------------------- | ----------------------------- | ------------------------------- |
-| MSDS-ChS | Chinese Signature  |   ✓   |   ✓   | 402 | $402\times(10 + 10) = 8040$ | $402\times(10 + 10) = 8040$ | $X,Y,P,T,I_r$ |
-| MSDS-TDS | Token Digit String |   ✓   |   ✓   | 402 | $402\times(10 + 10) = 8040$ | $402\times(10 + 10) = 8040$ | $X,Y,P,T,I_r$ |
+| MSDS-ChS | Chinese Signature  |   ✓   |   ✓   | 402 | $402\times(10 + 10) = 8040$ | $402\times(10 + 10) = 8040$ | $X,Y,P,T,I_r,U$ |
+| MSDS-TDS | Token Digit String |   ✓   |   ✓   | 402 | $402\times(10 + 10) = 8040$ | $402\times(10 + 10) = 8040$ | $X,Y,P,T,I_r,U$ |
 
-$X,Y,P,T,I_r$ respectively denote the $x, y$ coordinates, pressure, timestamps, and rendered static images.
+$X,Y,P,T,I_r,U$ respectively denote the $x, y$ coordinates, pressure, timestamps, rendered static images, and the pen-up/pen-down information. The pen-down/pen-up information is represented by 0~4. 0 indicates that this is not a pen-up/pen-down point. 1 indicates that this is a pen-down point. 2 indicates that this is a pen-up point. 3 indicates that this point is both a pen-up and pen-down point, which is isolated.
 
 The contributions of MSDS include:
 
@@ -55,7 +66,7 @@ The dataset is organized in the following directory format:
 
 ```bash
 ├─MSDS
-│  ├─Chinese_Signature
+│  ├─MSDS-ChS
 │  │  ├─session1
 │  │  │  ├─0
 │  │  │  │  ├─images
@@ -90,7 +101,7 @@ The dataset is organized in the following directory format:
 │  │  │  └─...
 │  │  └─session2
 │  │      ├─...
-│  └─Token_Digit_String
+│  └─MSDS-TDS
 │  │  ├─session1
 │  │  │  ├─0
 │  │  │  │  ├─images
@@ -127,7 +138,7 @@ The dataset is organized in the following directory format:
 │  │      ├─...
 ```
 
-- The `Chinese_Signature` folder contains Chinese signatures and `Token_Digit_String` contains Token Digit Strings (TDS).
+- The `MSDS-ChS` folder contains Chinese signatures and `MSDS-TDS` contains Token Digit Strings (TDS).
 - Each of them contains the data in two sessions which is stored in `session1` and `session2`.
 - The users are arranged from `0` to `401`, with online dynamic time series and offline static images provided in `series` and `images`. The time series are saved as `.txt` files and the images are in `.png` format.
 - The naming of each file follows the same format: `flag_user_index`.
