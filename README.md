@@ -10,10 +10,10 @@ This is the released version and official page of the MSDS dataset. The dataset 
 1. [Usage](#Usage)
 2. [Description](#Description)
 3. [Collection](#Collection)
-4. [Responsible Use](#Responsible%20Use)
-5. [Experimental Result](#Experimental%20Result)
+4. [Responsible-Use](#Responsible-Use)
+5. [Experimental-Result](#Experimental-Result)
 6. [License](#License)
-7. [Directory Format](#Directory%20Format)
+7. [Directory-Format](#Directory-Format)
 8. [Copyright](#Copyright)
 
 ## Usage
@@ -46,11 +46,11 @@ The data of MSDS was acquired with two types of Android tablets. Both of them ha
 
 The data acquisition process is divided into two separate sessions with a time interval of at least 21 days. In each session, users performed writing according to the same procedure: 10 genuine signatures→10 genuine phone numbers→10 forged signatures→10 forged phone numbers.
 
-## Responsible Use
+## Responsible-Use
 
 MSDS is collected for handwriting identity verification. Specifically, the MSDS-ChS subset could be exploited in online/offline Chinese signature verification, and the MSDS-TDS subset is intended to be used in online/offline identity verification with Token Digit Strings. In addition, MSDS can be exploited in writer identification.
 
-## Experimental Result
+## Experimental-Result
 
 ![chs](./images/chs-tds.png)
 
@@ -60,7 +60,7 @@ Experimental results show all models perform better on MSDS-TDS than MSDS-ChS. T
 
 MSDS should be used and distributed under [Creative Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) License](https://creativecommons.org/licenses/by-nc-nd/4.0/) for non-commercial research purposes.
 
-## Directory Format
+## Directory-Format
 
 The dataset is organized in the following directory format:
 
