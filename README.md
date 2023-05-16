@@ -1,13 +1,10 @@
 # MSDS Dataset Released
 
-This is the released version and official page of the MSDS dataset. The dataset can be downloaded in the following ways:
-
-- [Baidu Cloud](https://pan.baidu.com/s/1a1URzGDedL3F-4DTZuf4Aw?pwd=o0bs)
-- [Google Drive](https://drive.google.com/file/d/1e0mGmqNqMyrEXKu7ssFe1LpnRXtpPTlL/view?usp=sharing)
+This is the released version and official page of the MSDS dataset. You can access the dataset following the instructions.
 
 ## Directory
 
-1. [Usage](#Usage)
+1. [Usage&Download](#Usage&Download)
 2. [Description](#Description)
 3. [Collection](#Collection)
 4. [Responsible-Use](#Responsible-Use)
@@ -16,9 +13,10 @@ This is the released version and official page of the MSDS dataset. The dataset 
 7. [Directory-Format](#Directory-Format)
 8. [Copyright](#Copyright)
 
-## Usage
+## Usage&Download
 
-- The MSDS dataset can only be used for non-commercial research purposes. For scholar or organization who wants to use the MSDS dataset, please first fill in this [Application Form](./application-form/Application-Form-for-Using-MSDS.docx) and sign the [Legal Commitment](./application-form/Legal-Commitment.docx) and email them to us. When submitting the application form to us, please list or attached 1-2 of your publications in the recent 6 years to indicate that you (or your team) do research in the related research fields of handwriting verification, handwriting analysis and recognition, document image processing, and so on. We will give you the decompression password after your letter has been received and approved.
+- The MSDS dataset can only be used for non-commercial research purposes. For scholar or organization who wants to use the MSDS dataset, please first fill in this [Application Form](./application-form/Application-Form-for-Using-MSDS.docx) and sign the [Legal Commitment](./application-form/Legal-Commitment.docx) and email them to us. When submitting the application form to us, please list or attached 1-2 of your publications in the recent 6 years to indicate that you (or your team) do research in the related research fields of handwriting verification, handwriting analysis and recognition, document image processing, and so on. 
+- We will give you the download link and the decompression password after your application has been received and approved.
 - All users must follow all use conditions; otherwise, the authorization will be revoked.
 
 ## Description
