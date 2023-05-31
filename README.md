@@ -1,6 +1,6 @@
 # MSDS Dataset Released
 
-This is the released version and official page of the MSDS dataset. You can access the dataset following the instructions.
+This is the released version and official page of the [MSDS dataset](https://proceedings.neurips.cc/paper_files/paper/2022/hash/eca896a8cf6363c9573a701c8c5c9cc5-Abstract-Datasets_and_Benchmarks.html). You can access the dataset following the instructions.
 
 ## Directory
 
@@ -148,6 +148,19 @@ The dataset is organized in the following directory format:
 ## Citation
 
 ```
+@inproceedings{zhang2022msds,
+    author = {Zhang, Peirong and Jiang, Jiajia and Liu, Yuliang and Jin, Lianwen},
+    booktitle = {Advances in Neural Information Processing Systems},
+    pages = {36507--36519},
+    title = {MSDS: A Large-Scale Chinese Signature and Token Digit String Dataset for Handwriting Verification},
+    volume = {35},
+    year = {2022}
+}
+```
+
+or
+
+```
 @misc{zhang2022msds,
   author = {Zhang, Peirong and Jiang, Jiajia and Liu, Yuliang and Jin, Lianwen},
   keywords = {Computer Vision and Pattern Recognition (cs.CV), FOS: Computer and information sciences, FOS: Computer and information sciences},
@@ -155,17 +168,6 @@ The dataset is organized in the following directory format:
   publisher = {arXiv},
   year = {2022},
   copyright = {Creative Commons Attribution Non Commercial No Derivatives 4.0 International}
-}
-```
-
-or
-
-```
-@inproceedings{zhang2022msds,
-    title={{MSDS: A Large-Scale Chinese Signature and Token Digit String Dataset for Handwriting Verification}},
-    author={Peirong Zhang and Jiajia Jiang and Yuliang Liu and Lianwen Jin},
-    booktitle={Thirty-sixth Conference on Neural Information Processing Systems Datasets and Benchmarks Track},
-    year={2022}
 }
 ```
 
