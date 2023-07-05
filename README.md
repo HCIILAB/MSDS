@@ -150,24 +150,11 @@ The dataset is organized in the following directory format:
 ```
 @inproceedings{zhang2022msds,
     author = {Zhang, Peirong and Jiang, Jiajia and Liu, Yuliang and Jin, Lianwen},
-    booktitle = {Advances in Neural Information Processing Systems},
+    booktitle = {{Advances in Neural Information Processing Systems}},
     pages = {36507--36519},
-    title = {MSDS: A Large-Scale Chinese Signature and Token Digit String Dataset for Handwriting Verification},
+    title = {{MSDS: A Large-Scale Chinese Signature and Token Digit String Dataset for Handwriting Verification}},
     volume = {35},
     year = {2022}
-}
-```
-
-or
-
-```
-@misc{zhang2022msds,
-  author = {Zhang, Peirong and Jiang, Jiajia and Liu, Yuliang and Jin, Lianwen},
-  keywords = {Computer Vision and Pattern Recognition (cs.CV), FOS: Computer and information sciences, FOS: Computer and information sciences},
-  title = {{MSDS: A Large-Scale Chinese Signature and Token Digit String Dataset for Handwriting Verification}},
-  publisher = {arXiv},
-  year = {2022},
-  copyright = {Creative Commons Attribution Non Commercial No Derivatives 4.0 International}
 }
 ```
 
