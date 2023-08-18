@@ -1,6 +1,6 @@
 # MSDS Dataset Released
 
-This is the released version and official page of the [MSDS dataset](https://proceedings.neurips.cc/paper_files/paper/2022/hash/eca896a8cf6363c9573a701c8c5c9cc5-Abstract-Datasets_and_Benchmarks.html). You can access the dataset following the instructions.
+This is the released version and official page of the [MSDS dataset](https://proceedings.neurips.cc/paper_files/paper/2022/hash/eca896a8cf6363c9573a701c8c5c9cc5-Abstract-Datasets_and_Benchmarks.html)(NIPS 2022 Spotlight). You can access the dataset following the instructions.
 
 ## Directory
 
