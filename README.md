@@ -16,14 +16,14 @@
 
 ## Directory
 
-1. [Usage & Download](#usage&download)
-2. [Description](#description)
-3. [Collection](#collection)
-4. [Responsible Use](#responsible-use)
-5. [Experimental Result](#experimental-result)
-6. [License](#license)
-7. [Directory Format](#directory-format)
-8. [Copyright](#copyright)
+- [Usage & Download](#usage&download)
+- [Description](#description)
+- [Collection](#collection)
+- [Responsible Use](#responsible-use)
+- [Experimental Result](#experimental-result)
+- [License](#license)
+- [Directory Format](#directory-format)
+- [Copyright](#copyright)
 
 ## <div align="center" id="usage&download">🖥️Usage & Download</div> <!-- omit in toc -->
 
@@ -162,7 +162,7 @@ The dataset is organized in the following directory format:
 ```
 @inproceedings{zhang2022msds,
     author = {Zhang, Peirong and Jiang, Jiajia and Liu, Yuliang and Jin, Lianwen},
-    booktitle = {{Advances in Neural Information Processing Systems}},
+    booktitle = {{Advances in Neural Information Processing Systems (NeurIPS)}},
     pages = {36507--36519},
     title = {{MSDS: A Large-Scale Chinese Signature and Token Digit String Dataset for Handwriting Verification}},
     volume = {35},
