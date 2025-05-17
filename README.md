@@ -11,7 +11,7 @@
 
 <b>Neural Information Processing Systems (NeurIPS) Spotlight, 2022</b>
 
-:star:Official release of the MSDS dataset
+:star:Official release of the MSDS dataset.
 </div>
 
 ## Directory
