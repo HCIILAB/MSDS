@@ -7,7 +7,7 @@
   <a href="./LICENSE"> <img alt="Static Badge" src="https://img.shields.io/badge/License-GPLv3-FFBF00?logo=GNUBash&logoColor=rgb&labelColor=006622"></a>
 <p></p>
 
-<a href="https://arxiv.org/abs/2210.08836"> <b>MSDS: A Large-Scale Chinese Signature and Token Digit String Dataset for Handwriting Verification</b> </a>
+<a href="https://arxiv.org/abs/2210.08836"> <b>📝MSDS: A Large-Scale Chinese Signature and Token Digit String Dataset for Handwriting Verification</b> </a>
 
 <b>Neural Information Processing Systems (NeurIPS) Spotlight, 2022</b>
 
