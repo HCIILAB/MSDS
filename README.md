@@ -5,7 +5,7 @@
   <a href="https://proceedings.neurips.cc/paper_files/paper/2022/hash/eca896a8cf6363c9573a701c8c5c9cc5-Abstract-Datasets_and_Benchmarks.html"> <img alt="Static Badge" src="https://img.shields.io/badge/NeurIPS-MSDS-%23327FE6?logoColor=rgb&labelColor=58B822"></a>
   <a href="https://arxiv.org/abs/2210.08836"> <img alt="Static Badge" src="https://img.shields.io/badge/arXiv-2210.08836-%23CE0000?logo=arXiv&logoColor=rgb&labelColor=gray"></a>
   <a href="https://huggingface.co/papers/2210.08836"> <img alt="Static Badge" src="https://img.shields.io/badge/HuggingFace-Paper-FFBF00?logo=HuggingFace&logoColor=rgb&labelColor=gray"></a>
-  <a href="./LICENSE"> <img alt="Static Badge" src="https://img.shields.io/badge/License-GPLv3-DB8C00?logo=GNUBash&logoColor=rgb&labelColor=006622"></a>
+  <a href="./LICENSE"> <img alt="Static Badge" src="https://img.shields.io/badge/License-GPLv3-008844?logo=GNUBash&logoColor=rgb&labelColor=gray"></a>
 <p></p>
 
 <a href="https://arxiv.org/abs/2210.08836"> <b>MSDS: A Large-Scale Chinese Signature and Token Digit String Dataset for Handwriting Verification</b> </a>
@@ -176,4 +176,5 @@ The dataset is organized in the following directory format:
 For commercial purpose usage, please contact Prof. Lianwen Jin: eelwjin@scut.edu.cn.
 
 Copyright 2022-2025, [Deep Learning and Vision Computing Lab](http://www.dlvc-lab.net), South China China University of Technology.
+
 
