@@ -41,7 +41,7 @@ Have both documents signed and stamped by your institution. Please also prepare 
 
 > 🔗 **[SCUT DLVC Lab Dataset Access Portal → Apply for MSDS](http://121.41.49.212:9000/apply/msds)**
 
-Upload both signed documents through the portal. Your application will be reviewed manually and you will be notified by email once a decision has been made (typically within 3–5 business days).
+Upload both signed documents through the portal and fill out the "Recent Publications" block. Your application will be reviewed manually and you will be notified by email once a decision has been made (typically within 1–5 business days).
 
 **Step 3: Download the dataset:**
 
