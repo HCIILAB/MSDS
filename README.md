@@ -10,7 +10,7 @@
 
 <a href="https://arxiv.org/abs/2210.08836"> <b>MSDS: A Large-Scale Chinese Signature and Token Digit String Dataset for Handwriting Verification</b> </a>
 
-<b>Neural Information Processing Systems (NeurIPS) Spotlight, 2022</b>
+<b>Neural Information Processing Systems (NeurIPS), 2022, Spotlight</b>
 
 :star:Official release of the MSDS dataset.
 </div>
